@@ -9,3 +9,5 @@ Advanced Programming Group Project
 - Miguel Sardo [71929@novasbe.pt](mailto:71929@novasbe.pt)
 - Rafaela Castro [71923@novasbe.pt](mailto:71923@novasbe.pt)
 - olá eu sou a margarida
+
+- ola eu sou a rafaela
